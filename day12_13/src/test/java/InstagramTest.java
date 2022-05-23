@@ -26,8 +26,8 @@ public class InstagramTest {
 
 
 
-//    @AfterMethod
-//    void quitBrowser() {
-//        BrowserFactory.getDriver().quit();
-//    }
+    @AfterMethod
+    void quitBrowser() {
+        BrowserFactory.getDriver().quit();
+    }
 }
