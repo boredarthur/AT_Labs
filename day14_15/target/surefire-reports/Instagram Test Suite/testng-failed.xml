@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Instagram Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Instagram Test(failed)" verbose="0">
+    <classes>
+      <class name="test.java.InstagramTest">
+        <methods>
+          <include name="instagramTest" invocation-numbers="0"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- test.java.InstagramTest -->
+    </classes>
+  </test> <!-- Instagram Test(failed) -->
+</suite> <!-- Failed suite [Instagram Test Suite] -->
