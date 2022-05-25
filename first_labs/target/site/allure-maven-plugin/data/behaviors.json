@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "instagramTest",
+    "uid" : "ca21a35ccc767c5a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653380815739,
+      "stop" : 1653380845292,
+      "duration" : 29553
+    },
+    "flaky" : true,
+    "parameters" : [ "chrome" ]
+  } ]
+}

@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Arturs-MacBook-Air.local",
+    "children" : [ {
+      "name" : "98941@Arturs-MacBook-Air.local.TestNG-PoolService-0(16)",
+      "children" : [ {
+        "name" : "instagramTest",
+        "uid" : "ca21a35ccc767c5a",
+        "parentUid" : "e72d7a335018115f86d0b649bebfdac1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653380815739,
+          "stop" : 1653380845292,
+          "duration" : 29553
+        },
+        "flaky" : true,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "e72d7a335018115f86d0b649bebfdac1"
+    } ],
+    "uid" : "23c5a9ffbb3d56c53e910091ee71d5bf"
+  } ]
+}

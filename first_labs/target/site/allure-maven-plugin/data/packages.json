@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test.java.InstagramTest",
+    "children" : [ {
+      "name" : "instagramTest",
+      "uid" : "ca21a35ccc767c5a",
+      "parentUid" : "752e87d2383821806e6c73d1d3da4a7b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653380815739,
+        "stop" : 1653380845292,
+        "duration" : 29553
+      },
+      "flaky" : true,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "test.java.InstagramTest"
+  } ]
+}
