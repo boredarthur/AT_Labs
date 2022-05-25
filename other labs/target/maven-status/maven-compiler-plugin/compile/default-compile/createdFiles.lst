@@ -1,0 +1,7 @@
+main/java/utils/AllureListener.class
+main/java/utils/SuiteListener.class
+main/java/BrowserFactory.class
+test/java/InstagramTest.class
+main/java/WebDriverManager.class
+main/java/PageObject.class
+main/java/utils/ElementWrapper.class
